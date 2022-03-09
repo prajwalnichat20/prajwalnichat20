@@ -17,6 +17,8 @@ public class Palindrome {
 			sum= (sum*10)+r;
 			num=num/10;
 		}
+		
+		// By First GitHub Project
 		if(temp==sum) {
 			System.out.println("number is palindrom");
 		}else {

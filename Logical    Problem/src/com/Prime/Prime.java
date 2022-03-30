@@ -5,7 +5,7 @@ package com.Prime;
 public class Prime {
 	public static void main(String[] args) {
 		
-		int a= 6;
+		int a= 5;
 		int f=0;
 		for(int i=2; i<a; i++) {
 			
